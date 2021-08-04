@@ -1,0 +1,20 @@
+{
+	"menu" : {
+		"icon"  : "fas fa-store",
+		"color" : "#4b88ef",
+		"link"  : "title link",
+		"title" : "Google Business"
+	},
+
+	"account" : {
+		"add_account" : "google_business/block_list_account"
+	},
+
+	"js" : {
+		"google_business" : "google_business/assets/js/google_business.js"
+	},
+
+	"css" : {
+		"google_business" : "google_business/assets/css/google_business.css"
+	}
+}

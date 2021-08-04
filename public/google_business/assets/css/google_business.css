@@ -1,0 +1,71 @@
+@import url("fontawesome/css/solid.css");
+
+/*ICON*/
+.sidebar .fas.fa-store{ font-size: 18px!important; margin-right: 6px!important; left: -1px; }
+
+.fa-google-business-black,.fa-google_business{
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; 
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+}
+
+.fa-google-business-black,.fa-google_business:before {
+  content: "\f54e"; }
+
+.ap-box-preview .fas.fa-store, .preview-google_business .fas.fa-store{
+  font-size: 21px!important;
+}
+/*-------------------------*/
+/*        PREVIEW          */
+/*-------------------------*/ 
+
+/*GENERAL*/
+.preview-google_business .preview-header{
+    line-height: 60px;
+    height: 60px;
+    border-bottom: 1px solid #f5f5f5;
+    font-size: 20px;
+}
+
+.preview-google_business .preview-header .preview-logo{
+    text-align: center;
+    color: #4b88ef;
+    font-size: 30px;
+}
+
+.preview-google_business .preview-footer{  }
+.preview-google_business .preview-footer img{ float: right; }
+
+.preview-google_business .preview-content .preview-user{ padding: 15px 10px; }
+.preview-google_business .preview-content .preview-user .text{ font-size: 13px; line-height: 15px; }
+
+.preview-google_business .preview-content .preview-user .text .name{ font-weight: bold; color: #000; }
+.preview-google_business .preview-content .preview-caption{ padding: 10px 15px; word-break: break-all; color: #000; }
+.preview-google_business .preview-content .preview-title{ padding: 10px 10px; word-break: break-all; color: #000; font-weight: 400; font-size: 36px; line-height: 30px; }
+.preview-google_business .preview-content .preview-caption img{ width: 15px; position: relative; top: -2px; }
+.preview-google_business .preview-content .line-no-text{ margin-bottom: 3px; height: 13px; background: #f5f5f5; }
+.preview-google_business .preview-content .line-no-text.w50{ width: 50%; }
+
+/*PREVIEW IMAGE*/
+.preview-google_business .preview-google_business-media .preview-content .preview-image{
+    height: 321px;
+    width: 100%;
+    background: url(../img/default_image.png) center center no-repeat;
+    background-size: cover;
+    transition: all 0.5s;
+    position: relative;
+    overflow: hidden;
+}
+
+/*PREVIEW NONE*/
+.preview-google_business .preview-error{
+    padding: 38px 20px;
+    text-align: center;
+    color: #de0909;
+}

@@ -1,0 +1,345 @@
+Crone Effectue à 15-03-2021 17:03:20<br>Liste Utilisateur Ajouter.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : ORNEX SAS Agence Valserine Immobilier IdTeamlead : abca755e-8276-0dbc-bd7f-173e12586c50<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210315-171520
+--------------------------------------------------------
+
+Crone Effectue à 16-03-2021 10:03:38<br>Liste Utilisateur Ajouter.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : ORNEX SAS Agence Valserine Immobilier IdTeamlead : abca755e-8276-0dbc-bd7f-173e12586c50<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210316-101839
+--------------------------------------------------------
+
+Crone Effectue à 16-03-2021 13:03:33<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : ORNEX SAS Agence Valserine Immobilier IdTeamlead : abca755e-8276-0dbc-bd7f-173e12586c50<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210316-132033
+--------------------------------------------------------
+
+Crone Effectue à 18-03-2021 15:03:20<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : ORNEX SAS Agence Valserine Immobilier IdTeamlead : abca755e-8276-0dbc-bd7f-173e12586c50<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210318-154020
+--------------------------------------------------------
+
+Crone Effectue à 24-03-2021 10:03:16<br>Liste Utilisateur Ajouter.<br/>Full Name : AZUR 44 IMMOBILIER IdTeamlead : 4dd6c54f-7547-0cf1-837d-0d922261c9a1<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : ORNEX SAS Agence Valserine Immobilier IdTeamlead : abca755e-8276-0dbc-bd7f-173e12586c50<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210324-102616
+--------------------------------------------------------
+
+Crone Effectue à 24-03-2021 11:03:43<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : AZUR 44 IMMOBILIER IdTeamlead : 4dd6c54f-7547-0cf1-837d-0d922261c9a1<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : ORNEX SAS Agence Valserine Immobilier IdTeamlead : abca755e-8276-0dbc-bd7f-173e12586c50<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210324-111844
+--------------------------------------------------------
+
+Crone Effectue à 24-03-2021 11:03:55<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : AZUR 44 IMMOBILIER IdTeamlead : 4dd6c54f-7547-0cf1-837d-0d922261c9a1<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : ORNEX SAS Agence Valserine Immobilier IdTeamlead : abca755e-8276-0dbc-bd7f-173e12586c50<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210324-114355
+--------------------------------------------------------
+
+Crone Effectue à 25-03-2021 11:03:09<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210325-115710
+--------------------------------------------------------
+
+Crone Effectue à 25-03-2021 11:03:44<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210325-115745
+--------------------------------------------------------
+
+Crone Effectue à 25-03-2021 11:03:52<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210325-115852
+--------------------------------------------------------
+
+Crone Effectue à 25-03-2021 12:03:18<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210325-120119
+--------------------------------------------------------
+
+Crone Effectue à 25-03-2021 12:03:47<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210325-121248
+--------------------------------------------------------
+
+Crone Effectue à 25-03-2021 12:03:48<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210325-121349
+--------------------------------------------------------
+
+Crone Effectue à 25-03-2021 12:03:59<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210325-121359
+--------------------------------------------------------
+
+Crone Effectue à 25-03-2021 12:03:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210325-121413
+--------------------------------------------------------
+
+Crone Effectue à 26-03-2021 11:03:56<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210326-115957
+--------------------------------------------------------
+
+Crone Effectue à 26-03-2021 12:03:16<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210326-120216
+--------------------------------------------------------
+
+Crone Effectue à 26-03-2021 12:03:56<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210326-120557
+--------------------------------------------------------
+
+Crone Effectue à 30-03-2021 15:03:30<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : BANCOURT IMMOBILIER IdTeamlead : c2da9fc6-2262-0671-9a78-9cc7226089e3<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210330-152130
+--------------------------------------------------------
+
+Crone Effectue à 06-04-2021 18:04:46<br>Liste Utilisateur Ajouter.<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Liste Utilisateur Modifier.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210406-180847
+--------------------------------------------------------
+
+Crone Effectue à 07-04-2021 00:04:26<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>	20210407-000026
+--------------------------------------------------------
+
+Crone Effectue à 08-04-2021 00:04:20<br>Liste Utilisateur Ajouter.<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Liste Utilisateur Modifier.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : Nicolas Deliquiet Conseil Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : SARL Divalimmo IdTeamlead : 8fe4695e-7f2f-032d-b675-36d9e263f0c9<br/>	20210408-000021
+--------------------------------------------------------
+
+Crone Effectue à 09-04-2021 00:04:22<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>	20210409-000023
+--------------------------------------------------------
+
+Crone Effectue à 09-04-2021 15:04:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>	20210409-153912
+--------------------------------------------------------
+
+Crone Effectue à 10-04-2021 00:04:25<br>Liste Utilisateur Ajouter.<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Liste Utilisateur Modifier.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>	20210410-000025
+--------------------------------------------------------
+
+Crone Effectue à 11-04-2021 00:04:19<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>	20210411-000020
+--------------------------------------------------------
+
+Crone Effectue à 12-04-2021 00:04:20<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>	20210412-000021
+--------------------------------------------------------
+
+Crone Effectue à 13-04-2021 00:04:19<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>	20210413-000020
+--------------------------------------------------------
+
+Crone Effectue à 14-04-2021 00:04:22<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : FNAIM Atlantique Et Iroise IdTeamlead : ed1c909a-5396-0065-8273-810da263f437<br/>Full Name : GIE ORPI LYON IdTeamlead : 8fbb260a-d627-0a49-8579-fc6ed25005b9<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>	20210414-000023
+--------------------------------------------------------
+
+Crone Effectue à 15-04-2021 00:04:18<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>	20210415-000019
+--------------------------------------------------------
+
+Crone Effectue à 16-04-2021 00:04:18<br>Liste Utilisateur Ajouter.<br/>Full Name : SAS Boulay Immobilier CASANIED IdTeamlead : e9540093-7de6-0bb7-bd70-9f32126a5994<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>	20210416-000019
+--------------------------------------------------------
+
+Crone Effectue à 17-04-2021 00:04:24<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Full Name : SAS Boulay Immobilier CASANIED IdTeamlead : e9540093-7de6-0bb7-bd70-9f32126a5994<br/>	20210417-000024
+--------------------------------------------------------
+
+Crone Effectue à 18-04-2021 00:04:22<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Full Name : SAS Boulay Immobilier CASANIED IdTeamlead : e9540093-7de6-0bb7-bd70-9f32126a5994<br/>	20210418-000023
+--------------------------------------------------------
+
+Crone Effectue à 19-04-2021 00:04:25<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Full Name : SAS Boulay Immobilier CASANIED IdTeamlead : e9540093-7de6-0bb7-bd70-9f32126a5994<br/>	20210419-000026
+--------------------------------------------------------
+
+Crone Effectue à 20-04-2021 00:04:26<br>Liste Utilisateur Ajouter.<br/>Full Name : SARL Lefranc Immobilier HONORAIRES MOINS CHERS IdTeamlead : 3925e00a-17de-020e-9070-d827526defce<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Full Name : SAS Boulay Immobilier CASANIED IdTeamlead : e9540093-7de6-0bb7-bd70-9f32126a5994<br/>	20210420-000027
+--------------------------------------------------------
+
+Crone Effectue à 21-04-2021 00:04:24<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Full Name : SARL Lefranc Immobilier HONORAIRES MOINS CHERS IdTeamlead : 3925e00a-17de-020e-9070-d827526defce<br/>Full Name : SAS Boulay Immobilier CASANIED IdTeamlead : e9540093-7de6-0bb7-bd70-9f32126a5994<br/>	20210421-000025
+--------------------------------------------------------
+
+Crone Effectue à 22-04-2021 00:04:23<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Full Name : SARL Lefranc Immobilier HONORAIRES MOINS CHERS IdTeamlead : 3925e00a-17de-020e-9070-d827526defce<br/>Full Name : SAS Boulay Immobilier CASANIED IdTeamlead : e9540093-7de6-0bb7-bd70-9f32126a5994<br/>	20210422-000024
+--------------------------------------------------------
+
+Crone Effectue à 23-04-2021 00:04:28<br>Liste Utilisateur Ajouter.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Full Name : SARL Lefranc Immobilier HONORAIRES MOINS CHERS IdTeamlead : 3925e00a-17de-020e-9070-d827526defce<br/>Full Name : SAS Boulay Immobilier CASANIED IdTeamlead : e9540093-7de6-0bb7-bd70-9f32126a5994<br/>	20210423-000028
+--------------------------------------------------------
+
+Crone Effectue à 23-04-2021 11:04:34<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Full Name : SARL Lefranc Immobilier HONORAIRES MOINS CHERS IdTeamlead : 3925e00a-17de-020e-9070-d827526defce<br/>Full Name : SAS Boulay Immobilier CASANIED IdTeamlead : e9540093-7de6-0bb7-bd70-9f32126a5994<br/>	20210423-115035
+--------------------------------------------------------
+
+Crone Effectue à 24-04-2021 00:04:34<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL Cmp Immobilier IdTeamlead : 7ac9711e-1798-0b08-b47e-f88e6268a456<br/>Full Name : SARL L'agence De La Mairie IdTeamlead : ba765cb1-2929-05ae-aa7f-15a38268998a<br/>Full Name : SARL Lefranc Immobilier HONORAIRES MOINS CHERS IdTeamlead : 3925e00a-17de-020e-9070-d827526defce<br/>Full Name : SAS Boulay Immobilier CASANIED IdTeamlead : e9540093-7de6-0bb7-bd70-9f32126a5994<br/>	20210424-000035
+--------------------------------------------------------
+
+Crone Effectue à 03-05-2021 18:05:16<br>Liste Utilisateur Ajouter.<br/>Full Name : ORPI SAINT GEOIRS IMMOBILIER IdTeamlead : b377f2e2-6af6-0428-9372-e639825b8f4e<br/>Full Name : SARL Project'immo IdTeamlead : d72791a0-ac84-097a-9f7c-d16ad27070aa<br/>Full Name : SAS Eloka HOTEL NAPOLEON IdTeamlead : 5bec4ad9-443b-0df4-a77d-c7f5a26dfd0c<br/>Full Name : SASU Go To Lormont IdTeamlead : d894c87b-0902-0390-8e71-5df2924815db<br/>Liste Utilisateur Modifier.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL Lefranc Immobilier HONORAIRES MOINS CHERS IdTeamlead : 3925e00a-17de-020e-9070-d827526defce<br/>	20210503-180317
+--------------------------------------------------------
+
+Crone Effectue à 03-05-2021 18:05:25<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : ORPI SAINT GEOIRS IMMOBILIER IdTeamlead : b377f2e2-6af6-0428-9372-e639825b8f4e<br/>Full Name : SARL Lefranc Immobilier HONORAIRES MOINS CHERS IdTeamlead : 3925e00a-17de-020e-9070-d827526defce<br/>Full Name : SARL Project'immo IdTeamlead : d72791a0-ac84-097a-9f7c-d16ad27070aa<br/>Full Name : SAS Eloka HOTEL NAPOLEON IdTeamlead : 5bec4ad9-443b-0df4-a77d-c7f5a26dfd0c<br/>Full Name : SASU Go To Lormont IdTeamlead : d894c87b-0902-0390-8e71-5df2924815db<br/>	20210503-181226
+--------------------------------------------------------
+
+Crone Effectue à 03-05-2021 18:05:35<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : ORPI SAINT GEOIRS IMMOBILIER IdTeamlead : b377f2e2-6af6-0428-9372-e639825b8f4e<br/>Full Name : SARL Lefranc Immobilier HONORAIRES MOINS CHERS IdTeamlead : 3925e00a-17de-020e-9070-d827526defce<br/>Full Name : SARL Project'immo IdTeamlead : d72791a0-ac84-097a-9f7c-d16ad27070aa<br/>Full Name : SAS Eloka HOTEL NAPOLEON IdTeamlead : 5bec4ad9-443b-0df4-a77d-c7f5a26dfd0c<br/>Full Name : SASU Go To Lormont IdTeamlead : d894c87b-0902-0390-8e71-5df2924815db<br/>	20210503-181335
+--------------------------------------------------------
+
+Crone Effectue à 04-05-2021 00:05:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : ORPI SAINT GEOIRS IMMOBILIER IdTeamlead : b377f2e2-6af6-0428-9372-e639825b8f4e<br/>Full Name : SARL Lefranc Immobilier HONORAIRES MOINS CHERS IdTeamlead : 3925e00a-17de-020e-9070-d827526defce<br/>Full Name : SARL Project'immo IdTeamlead : d72791a0-ac84-097a-9f7c-d16ad27070aa<br/>Full Name : SAS Eloka HOTEL NAPOLEON IdTeamlead : 5bec4ad9-443b-0df4-a77d-c7f5a26dfd0c<br/>Full Name : SASU Go To Lormont IdTeamlead : d894c87b-0902-0390-8e71-5df2924815db<br/>	20210504-000011
+--------------------------------------------------------
+
+Crone Effectue à 05-05-2021 00:05:10<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : ORPI SAINT GEOIRS IMMOBILIER IdTeamlead : b377f2e2-6af6-0428-9372-e639825b8f4e<br/>Full Name : SARL Project'immo IdTeamlead : d72791a0-ac84-097a-9f7c-d16ad27070aa<br/>Full Name : SAS Eloka HOTEL NAPOLEON IdTeamlead : 5bec4ad9-443b-0df4-a77d-c7f5a26dfd0c<br/>Full Name : SASU Go To Lormont IdTeamlead : d894c87b-0902-0390-8e71-5df2924815db<br/>	20210505-000010
+--------------------------------------------------------
+
+Crone Effectue à 06-05-2021 00:05:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : ORPI SAINT GEOIRS IMMOBILIER IdTeamlead : b377f2e2-6af6-0428-9372-e639825b8f4e<br/>Full Name : SARL Project'immo IdTeamlead : d72791a0-ac84-097a-9f7c-d16ad27070aa<br/>Full Name : SAS Eloka HOTEL NAPOLEON IdTeamlead : 5bec4ad9-443b-0df4-a77d-c7f5a26dfd0c<br/>Full Name : SASU Go To Lormont IdTeamlead : d894c87b-0902-0390-8e71-5df2924815db<br/>	20210506-000012
+--------------------------------------------------------
+
+Crone Effectue à 06-05-2021 17:05:39<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : ORPI SAINT GEOIRS IMMOBILIER IdTeamlead : b377f2e2-6af6-0428-9372-e639825b8f4e<br/>Full Name : SARL Project'immo IdTeamlead : d72791a0-ac84-097a-9f7c-d16ad27070aa<br/>Full Name : SAS Eloka HOTEL NAPOLEON IdTeamlead : 5bec4ad9-443b-0df4-a77d-c7f5a26dfd0c<br/>Full Name : SASU Go To Lormont IdTeamlead : d894c87b-0902-0390-8e71-5df2924815db<br/>	20210506-172640
+--------------------------------------------------------
+
+Crone Effectue à 07-05-2021 00:05:19<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : ORPI SAINT GEOIRS IMMOBILIER IdTeamlead : b377f2e2-6af6-0428-9372-e639825b8f4e<br/>Full Name : SARL Project'immo IdTeamlead : d72791a0-ac84-097a-9f7c-d16ad27070aa<br/>Full Name : SAS Eloka HOTEL NAPOLEON IdTeamlead : 5bec4ad9-443b-0df4-a77d-c7f5a26dfd0c<br/>Full Name : SASU Go To Lormont IdTeamlead : d894c87b-0902-0390-8e71-5df2924815db<br/>	20210507-000019
+--------------------------------------------------------
+
+Crone Effectue à 04-06-2021 00:06:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>	20210604-000013
+--------------------------------------------------------
+
+Crone Effectue à 04-06-2021 13:06:28<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>	20210604-132528
+--------------------------------------------------------
+
+Crone Effectue à 04-06-2021 13:06:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>	20210604-133212
+--------------------------------------------------------
+
+Crone Effectue à 04-06-2021 13:06:25<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>	20210604-133426
+--------------------------------------------------------
+
+Crone Effectue à 04-06-2021 13:06:03<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>	20210604-133704
+--------------------------------------------------------
+
+Crone Effectue à 04-06-2021 14:06:57<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>	20210604-140158
+--------------------------------------------------------
+
+Crone Effectue à 04-06-2021 14:06:07<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>	20210604-140307
+--------------------------------------------------------
+
+Crone Effectue à 05-06-2021 00:06:14<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>	20210605-000015
+--------------------------------------------------------
+
+Crone Effectue à 06-06-2021 00:06:13<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>	20210606-000014
+--------------------------------------------------------
+
+Crone Effectue à 07-06-2021 00:06:13<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Coldwell Banker Alcapa Invest SAS IdTeamlead : 0293bbdd-db8d-04fc-b97f-110ac2553e85<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>	20210607-000014
+--------------------------------------------------------
+
+Crone Effectue à 08-06-2021 00:06:14<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>Full Name : SARL Ma Corsica Com IdTeamlead : 03a9e22a-5b70-0eb1-9275-33db027798e9<br/>	20210608-000014
+--------------------------------------------------------
+
+Crone Effectue à 09-06-2021 00:06:15<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>Full Name : SARL Ma Corsica Com IdTeamlead : 03a9e22a-5b70-0eb1-9275-33db027798e9<br/>	20210609-000015
+--------------------------------------------------------
+
+Crone Effectue à 10-06-2021 00:06:13<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>Full Name : SARL Ma Corsica Com IdTeamlead : 03a9e22a-5b70-0eb1-9275-33db027798e9<br/>	20210610-000014
+--------------------------------------------------------
+
+Crone Effectue à 11-06-2021 00:06:17<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>Full Name : SARL Ma Corsica Com IdTeamlead : 03a9e22a-5b70-0eb1-9275-33db027798e9<br/>	20210611-000018
+--------------------------------------------------------
+
+Crone Effectue à 12-06-2021 00:06:13<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>Full Name : SARL K - Le Coat - KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SARL Ma Corsica Com IdTeamlead : 03a9e22a-5b70-0eb1-9275-33db027798e9<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210612-000014
+--------------------------------------------------------
+
+Crone Effectue à 13-06-2021 00:06:13<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>Full Name : SARL K - Le Coat - KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SARL Ma Corsica Com IdTeamlead : 03a9e22a-5b70-0eb1-9275-33db027798e9<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210613-000013
+--------------------------------------------------------
+
+Crone Effectue à 14-06-2021 00:06:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>Full Name : SARL K - Le Coat - KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SARL Ma Corsica Com IdTeamlead : 03a9e22a-5b70-0eb1-9275-33db027798e9<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210614-000013
+--------------------------------------------------------
+
+Crone Effectue à 15-06-2021 00:06:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SARL Ma Corsica Com IdTeamlead : 03a9e22a-5b70-0eb1-9275-33db027798e9<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210615-000013
+--------------------------------------------------------
+
+Crone Effectue à 16-06-2021 00:06:14<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Auteuil Patrimoine - Deliquiet Immobilier IdTeamlead : 8a4f1efa-bb48-044c-997e-ebe3024479ef<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL ARB STELLA HABITAT IdTeamlead : 6559dc70-e7f6-094f-b07b-794fd25bba1e<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SARL Ma Corsica Com IdTeamlead : 03a9e22a-5b70-0eb1-9275-33db027798e9<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210616-000015
+--------------------------------------------------------
+
+Crone Effectue à 17-06-2021 00:06:15<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SARL Ma Corsica Com IdTeamlead : 03a9e22a-5b70-0eb1-9275-33db027798e9<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210617-000016
+--------------------------------------------------------
+
+Crone Effectue à 18-06-2021 00:06:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210618-000012
+--------------------------------------------------------
+
+Crone Effectue à 19-06-2021 00:06:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210619-000021
+--------------------------------------------------------
+
+Crone Effectue à 20-06-2021 00:06:13<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210620-000013
+--------------------------------------------------------
+
+Crone Effectue à 21-06-2021 00:06:13<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210621-000014
+--------------------------------------------------------
+
+Crone Effectue à 22-06-2021 00:06:14<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : Hotel PRIMEROSE IdTeamlead : fda25dd7-af81-029e-bb72-9d9a71f91a97<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SAS Riva-Immobilier IdTeamlead : 47890da4-9056-0c90-a174-8cd97278799e<br/>	20210622-000015
+--------------------------------------------------------
+
+Crone Effectue à 23-06-2021 00:06:10<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>	20210623-000010
+--------------------------------------------------------
+
+Crone Effectue à 24-06-2021 00:06:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>	20210624-000011
+--------------------------------------------------------
+
+Crone Effectue à 25-06-2021 00:06:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>	20210625-000012
+--------------------------------------------------------
+
+Crone Effectue à 26-06-2021 00:06:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210626-000012
+--------------------------------------------------------
+
+Crone Effectue à 27-06-2021 00:06:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210627-000012
+--------------------------------------------------------
+
+Crone Effectue à 28-06-2021 00:06:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210628-000013
+--------------------------------------------------------
+
+Crone Effectue à 29-06-2021 00:06:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL K - Le Coat - FNAIM KASA IMMO IdTeamlead : 88b99920-ba12-02a7-8f75-b5a9d2772044<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210629-000012
+--------------------------------------------------------
+
+Crone Effectue à 30-06-2021 00:06:10<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210630-000011
+--------------------------------------------------------
+
+Crone Effectue à 01-07-2021 00:07:08<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210701-000013
+--------------------------------------------------------
+
+Crone Effectue à 02-07-2021 00:07:10<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210702-000010
+--------------------------------------------------------
+
+Crone Effectue à 03-07-2021 00:07:10<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210703-000011
+--------------------------------------------------------
+
+Crone Effectue à 04-07-2021 00:07:10<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210704-000010
+--------------------------------------------------------
+
+Crone Effectue à 05-07-2021 00:07:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210705-000013
+--------------------------------------------------------
+
+Crone Effectue à 06-07-2021 00:07:10<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210706-000010
+--------------------------------------------------------
+
+Crone Effectue à 07-07-2021 00:07:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210707-000011
+--------------------------------------------------------
+
+Crone Effectue à 08-07-2021 00:07:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210708-000013
+--------------------------------------------------------
+
+Crone Effectue à 09-07-2021 00:07:14<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : EURL Jerome Avanzini IdTeamlead : 782d4a9f-9387-05c7-857c-a5c5327bfc3b<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210709-000015
+--------------------------------------------------------
+
+Crone Effectue à 10-07-2021 00:07:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>Full Name : SARL La Maison Bleue - AGENCE FIRST IdTeamlead : fb287af2-c94f-03b0-8671-01bac27c2958<br/>	20210710-000011
+--------------------------------------------------------
+
+Crone Effectue à 11-07-2021 00:07:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>	20210711-000012
+--------------------------------------------------------
+
+Crone Effectue à 12-07-2021 00:07:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>	20210712-000013
+--------------------------------------------------------
+
+Crone Effectue à 13-07-2021 00:07:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>	20210713-000011
+--------------------------------------------------------
+
+Crone Effectue à 14-07-2021 00:07:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Agence Doyon Immobilier IdTeamlead : d341c6e8-1851-0057-877e-9400e27dd9cb<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>	20210714-000011
+--------------------------------------------------------
+
+Crone Effectue à 15-07-2021 00:07:09<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Agence Doyon Immobilier IdTeamlead : d341c6e8-1851-0057-877e-9400e27dd9cb<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>	20210715-000010
+--------------------------------------------------------
+
+Crone Effectue à 16-07-2021 00:07:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Agence Doyon Immobilier IdTeamlead : d341c6e8-1851-0057-877e-9400e27dd9cb<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>	20210716-000011
+--------------------------------------------------------
+
+Crone Effectue à 17-07-2021 00:07:10<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Agence Doyon Immobilier IdTeamlead : d341c6e8-1851-0057-877e-9400e27dd9cb<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>	20210717-000010
+--------------------------------------------------------
+
+Crone Effectue à 18-07-2021 00:07:11<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Agence Doyon Immobilier IdTeamlead : d341c6e8-1851-0057-877e-9400e27dd9cb<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>	20210718-000011
+--------------------------------------------------------
+
+Crone Effectue à 19-07-2021 00:07:10<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Agence Doyon Immobilier IdTeamlead : d341c6e8-1851-0057-877e-9400e27dd9cb<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>	20210719-000011
+--------------------------------------------------------
+
+Crone Effectue à 20-07-2021 00:07:09<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Agence Doyon Immobilier IdTeamlead : d341c6e8-1851-0057-877e-9400e27dd9cb<br/>Full Name : SARL L'immobiliere Saint Eloi IdTeamlead : a6d5728e-13cd-0936-9c7e-7a8e827d7002<br/>Full Name : SARL Le Mirador IdTeamlead : 8a05fd67-d08e-0b05-9171-c606727efae8<br/>	20210720-000010
+--------------------------------------------------------
+
+Crone Effectue à 21-07-2021 00:07:12<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : GIE LYON IdTeamlead : a8f2fcad-cb75-08a5-9471-0c3ed27e587a<br/>Full Name : SARL Agence Doyon Immobilier IdTeamlead : d341c6e8-1851-0057-877e-9400e27dd9cb<br/>Full Name : SARL Le Mirador IdTeamlead : 8a05fd67-d08e-0b05-9171-c606727efae8<br/>	20210721-000013
+--------------------------------------------------------
+
+Crone Effectue à 22-07-2021 00:07:08<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : GIE LYON IdTeamlead : a8f2fcad-cb75-08a5-9471-0c3ed27e587a<br/>Full Name : SARL Le Mirador IdTeamlead : 8a05fd67-d08e-0b05-9171-c606727efae8<br/>	20210722-000009
+--------------------------------------------------------
+
+Crone Effectue à 23-07-2021 00:07:09<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : GIE LYON IdTeamlead : a8f2fcad-cb75-08a5-9471-0c3ed27e587a<br/>Full Name : SARL Le Mirador IdTeamlead : 8a05fd67-d08e-0b05-9171-c606727efae8<br/>	20210723-000010
+--------------------------------------------------------
+
+Crone Effectue à 24-07-2021 00:07:06<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Le Mirador IdTeamlead : 8a05fd67-d08e-0b05-9171-c606727efae8<br/>	20210724-000007
+--------------------------------------------------------
+
+Crone Effectue à 25-07-2021 00:07:07<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Le Mirador IdTeamlead : 8a05fd67-d08e-0b05-9171-c606727efae8<br/>	20210725-000008
+--------------------------------------------------------
+
+Crone Effectue à 26-07-2021 00:07:07<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Le Mirador IdTeamlead : 8a05fd67-d08e-0b05-9171-c606727efae8<br/>	20210726-000008
+--------------------------------------------------------
+
+Crone Effectue à 27-07-2021 00:07:08<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SARL Le Mirador IdTeamlead : 8a05fd67-d08e-0b05-9171-c606727efae8<br/>	20210727-000008
+--------------------------------------------------------
+
+Crone Effectue à 28-07-2021 00:07:07<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SAS Dpi Le Taconet IdTeamlead : d289bf60-a5eb-0e9b-b779-bfd5527f7e51<br/>	20210728-000008
+--------------------------------------------------------
+
+Crone Effectue à 29-07-2021 00:07:08<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SAS Dpi Le Taconet IdTeamlead : d289bf60-a5eb-0e9b-b779-bfd5527f7e51<br/>	20210729-000009
+--------------------------------------------------------
+
+Crone Effectue à 30-07-2021 00:07:06<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SAS Dpi Le Taconet IdTeamlead : d289bf60-a5eb-0e9b-b779-bfd5527f7e51<br/>	20210730-000006
+--------------------------------------------------------
+
+Crone Effectue à 31-07-2021 00:07:07<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SAS Dpi Le Taconet IdTeamlead : d289bf60-a5eb-0e9b-b779-bfd5527f7e51<br/>	20210731-000007
+--------------------------------------------------------
+
+Crone Effectue à 01-08-2021 00:08:06<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SAS Dpi Le Taconet IdTeamlead : d289bf60-a5eb-0e9b-b779-bfd5527f7e51<br/>	20210801-000009
+--------------------------------------------------------
+
+Crone Effectue à 02-08-2021 00:08:08<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SAS Dpi Le Taconet IdTeamlead : d289bf60-a5eb-0e9b-b779-bfd5527f7e51<br/>	20210802-000009
+--------------------------------------------------------
+
+Crone Effectue à 03-08-2021 00:08:06<br>Aucun Utilisateur Ajouter.<br/>Liste Utilisateur Modifier.<br/>Full Name : SAS Dpi Le Taconet IdTeamlead : d289bf60-a5eb-0e9b-b779-bfd5527f7e51<br/>	20210803-000007
+--------------------------------------------------------
+
