@@ -1,0 +1,22 @@
+{
+	"menu" : {
+		"icon"  : "fa fa-facebook-official",
+		"color" : "#4267b2",
+		"link"  : "title link",
+		"title" : "Facebook"
+	},
+
+	"account" : {
+		"add_account" : "facebook/block_list_account"
+	},
+
+	"js" : {
+		"facebook" : "facebook/assets/js/facebook.js",
+		"facebook_analytics" : "facebook/assets/js/facebook_analytics.js"
+	},
+
+	"css" : {
+		"facebook" : "facebook/assets/css/facebook.css"
+	},
+	"name": "facebook"
+}
